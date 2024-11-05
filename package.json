@@ -1,13 +1,1 @@
-{
-  "name": "blue-green-deployment-app",
-  "version": "1.0.0",
-  "description": "Blue-Green Deployment Example",
-  "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
-}
-
+{ "name": "blue-green-deployment-app", "version": "1.0.0", "description": "Blue-Green Deployment Example", "main": "app.js", "scripts": { "start": "node app.js" }, "dependencies": { "express": "^4.18.2" } }
